@@ -1,0 +1,7 @@
+_id,productName,price,productImage,description,productCatogoryId,sellerId,__v,availableQuantity,createdDate
+644a7b0d07fc722cd113985e,Tomatoes,2.99,https://post.healthline.com/wp-content/uploads/2020/09/AN313-Tomatoes-732x549-Thumb.jpg,Juicy and ripe red tomatoes,644a1374a52ff51271c3cd91,644a1f0ac6371c555d0e22cb,0,20,2023-05-10
+644a7ba107fc722cd1139860,Carrots,1.49,https://photos.demandstudios.com/getty/article/56/3/87545221.jpg,Crunchy and sweet orange carrots,644a1374a52ff51271c3cd91,644a1fe7c6371c555d0e22cd,0,30,2023-05-11
+644a7bd507fc722cd1139862,Lettuce,3.99,https://www.bhg.com/thmb/oL0DwR0DXrhFynA2y-oiY-nkCbg=/1878x0/filters:no_upscale():strip_icc()/tango-oakleaf-lettuce-c6f6417e-4cffa63034624d96a9e9ec9a3fe158f9.jpg,Fresh and crisp green lettuce leaves,644a1374a52ff51271c3cd91,644a20cbc6371c555d0e22cf,0,15,2023-05-11
+644a7c3f07fc722cd1139864,Cucumbers,1.99,https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-06/Type%20of%20cucumber.jpg,Refreshing and crisp green cucumbers,644a1374a52ff51271c3cd91,644a1f0ac6371c555d0e22cb,0,25,2023-05-12
+644a7c8d07fc722cd1139866,Bell Peppers,3.49,https://hosstools.com/wp-content/uploads/2020/10/mini-belle-pepper-mix.jpg,Sweet and crunchy red bell peppers,644a1374a52ff51271c3cd91,644a20cbc6371c555d0e22cf,0,18,2023-05-12
+6465a1ad24b87dff2a167b99,Apple,2.99,https://images-prod.healthline.com/hlcmsresource/images/AN_images/health-benefits-of-apples-1296x728-feature.jpg,Apple,644a1329a52ff51271c3cd8f,644a1f0ac6371c555d0e22cb,0,20,2023-05-11
